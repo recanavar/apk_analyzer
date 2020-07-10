@@ -17,11 +17,15 @@ The tools uses [Androguard](https://github.com/androguard/androguard) library.
 
 ## Usage
 
-> python3 apk_analyzer.py [APK] 
+```python
+python3 apk_analyzer.py [APK] 
+```
 
 ## Example
 
-> python3 apk_analyzer.py Test.apk
+```python
+python3 apk_analyzer.py Test.apk
+```
 
 <img src="/pics/apk_analyzer.png"
      style="float: left; margin-right: 10px;" />
