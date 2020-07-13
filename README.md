@@ -7,7 +7,7 @@ dangerous_permission.json was prepared from [Manifest.permission](https://develo
 *New modules will be added*
 
 ## How it works ?
-The tools uses [Androguard](https://github.com/androguard/androguard) library.
+The tool uses [Androguard](https://github.com/androguard/androguard) library.
 - Get permissions with get_permission() function.
 - Print them to the screen.
 
